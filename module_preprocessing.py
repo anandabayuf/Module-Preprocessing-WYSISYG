@@ -4,7 +4,7 @@
 # sumber : https://stackoverflow.com/questions/9662346/python-code-to-remove-html-tags-from-a-string
 
 # prerequisite :
-# install bs4 to your python library using pip command 'pip install bs4'
+# install bs4 to your python library using pip command 'pip install bs4' 'pip install lxml'
 
 from bs4 import BeautifulSoup
 
